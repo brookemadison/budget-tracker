@@ -3,10 +3,9 @@
 ## Table of Contents
 
 * [Description](#description)
+* [Deployed Application](#deployed-application)
 * [Screenshot](#screenshot)
-* [Teachnologies Used](#technologies-used)
-* [Installation](#installation)
-* [Video Walkthrough](#video-walkthrough)
+* [Technologies Used](#technologies-used)
 * [License](#license)
 * [Contributors](#contributors)
 * [Questions](#questions)
@@ -15,6 +14,10 @@
 
 Having offline functionality is paramount to the success of an application that handles users’ financial information.
 This budget tracker application allows for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
+
+## Deployed Application
+
+https://lit-reaches-08410.herokuapp.com/
 
 ## Screenshot
 
